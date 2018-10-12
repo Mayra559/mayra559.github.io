@@ -1,147 +1,83 @@
-body {
-  padding: 0;
-  margin: 0;
-  background: #F7F7F7;
-  /* Old browsers */
-  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mayra Fermin</title>
+  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
 
-/** Header styles **/
-.header {
-  background-image: url(https://lh3.googleusercontent.com/7bR0UWT7qD0OTy77JprbKblaoYh4iM7Wd8nxr6wRM6l1QEG3VWcHK9oJvIahnzaP1xqd0virXnHpubuJk4QPv2ncNVPVOmRnMjR5Spq2NabUCp0SQ--nrSNGfh8Vyf-UbJFXV-KdmpcrpLZvlPQYB-AlnhSug93jvIFjfojThLUcX8_AdLD4SbNUkIGiQf_sKI6mOrH6hHlv0-2UDsEVLxbK3-NyQ7QY7VGP3qG4hzVjFKAg7Xdy1vfK-T07qwFz4G0DSBHa5uNHkL33gywMQXdTbJ0olFFjSI9AHhvw9qds1mrFEKGPD61VVmaCe8ryI1YxBDmcJGLwjLSqChVomU9PYVCk4Ci7nwpJK5Dt8cNnIhs832_qO1E7Y-oY75rBdvZeFzm4apNEUswfqPMXp9k58HS9wWTgrYDfTKkManqFj25Z00PgWtw13MCUECr9-a9gN2y5O2WN2DHgFEbPmx0RlMsB50vzxvLDzQayGmGIP0WZ_eafMkttx3w88Fwgfev2vnWNfuiB2BxwwJ9Skr82O0gzFsHauteY2w_gCTzupw4wcDAL-Kf8wZngpHFj2m-UKxq9rn-3gD3quw-6uVa48oo9tcSCG8vl7VIA7D4hyEgtrFejGNQ5PhEHI7A=w713-h535-no);
-  height: 400px;
-  background-position: center center;
-}
+  <div class="header">
+    <h1>The Best Boyfriend Ever</h1>
+  </div>
 
-.roasting {
-  margin: 40px auto;
-  padding: 20px 30px 40px 30px;
-  background-color: #FFFFFFFFF;
-  overflow: auto;
-  width: 75%;
-  border-radius: 4px;
-  align-self: center;
-}
+  <div class="roasting">
+    <h3>A Note about him:</h3>
+    <p>His name is Jonathan Ruiz.He lives in Fresno,Ca.He likes sports his favoriate football team are the Raiders,He loves Carls jr,mexican food,and he has the sweetest heart.</p>
+  <br>
+      <div class="spectrum">
+        <div class="green">
+          <h4>My other half</h4>
+          <h5>Present</h5>
+          <p>We started talking about 6 years ago. We were good friends until we became more then just friends and I must say he is the love of my life.He and I have continued to grow closer and spend as much time together as possible.He has one of the caring hearts in the whole world.He is very close with his family.</p>
+        </div>
+        <div class="light">
+          <h4>How I feel about him</h4>
+          <h5></h5>
+          <p>Ever since he came into my life he has showed me the truth meaning about love.I love him very much because he isn't only my boyfriend,but my bestfriend who I can count on anything.Honestly he's perfect to me,hes so caring,sweet,he is my everything,my life I would not trade his relationship for anyone else with him I feel protective and I can be myself. </p>
+        </div>
+        <div class="city">
+          <h4>City Roast</h4>
+          <h5>219&degC (426&degF)</h5>
+          <p>Medium brown, common for most specialty coffee. Good for tasting origin character, although roast character is noticeable.</p>
+        </div>
+        <div class="vienna">
+          <h4>Vienna Roast</h4>
+          <h5>230&degC (446&degF)</h5>
+          <p>Moderate dark brown with light surface oil, more bittersweet, caramel flavor, acidity muted. In the middle of second crack. Any origin characteristics have become eclipsed by roast at this level.</p>
+        </div>
+        <div class="italian">
+          <h4>Italian Roast</h4>
+          <h5>245&degC (473&degF)</h5>
+          <p>Nearly black and shiny, burnt tones become more distinct, acidity nearly eliminated, thin body.</p>
+        </div>
+      </div>
+  </div>
 
-.roasting p {
-  color: #938E89;
-  text-align: center;
-  line-height: 24px;
-  font-family:'Charmonman', cursive;;<link href="https://fonts.googleapis.com/css?family=Charmonman" rel="stylesheet"> 
-  font-size: 16px;
-  font-weight: 400;
-}
+  <ul>
+    <li>
+      <h2>Brazil</h2>
+      <p>Arabica dominates both Brazil and the world as a whole with about 85% of the production; robusta accounts for the remaining 30%. In Brazil, arabica production is located in the main coffee-growing cluster of states led by Rio where arabica is
+        produced almost exclusively. Robusta is primarily grown in the northwestern much smaller state of Espirito Santo where about 80% of the coffee is robusta.</p>
+      <a href="#">Learn More about Brazil</a>
+    </li>
+    <li>
+      <h2>Colombia</h2>
+      <p>Colombia has a reputation as producing mild, well balanced coffee beans.Colombia's average annual coffee production of 11.5 million bags is the third total highest in the world, after Brazil and Vietnam; though highest in terms of the arabica
+        bean. The beans are exported to United States, Germany, France, Japan, and Italy. Most coffee is grown in the Colombian coffee growing axis region.</p>
+      <a href="#">Learn More about Colombia</a>
+    </li>
+    <li>
+      <h2>India</h2>
+      <p>Indian coffee, grown mostly in southern India under monsoon rainfall conditions, is also termed as Indian monsooned coffee". Its flavor is defined as: "At its best similar to the flavor characteristics of Pacific coffees, but at its worst bland and uninspiring. The two well known species of coffee grown are the Arabica and Robusta. Probably the most commonly planted Arabica in India and Southeast Asia is S.795.</p>
+      <a href="#">Learn More about India</a>
+    </li>
+    <li>
+      <h2>Ethiopia</h2>
+      <p>Ethiopian beans can be divided into 3 categories: Longberry, Shortberry, and Mocha. Longberry varieties consist of the largest beans and are often considered of the highest quality in both value and flavor. Shortberry varieties are smaller. The Mocha variety is a highly prized commodity. Mocha Harars are known for their peaberry beans that often have complex chocolate, spice and citrus notes.</p>
+      <a href="#">Learn More about Ethiopia</a>
+    </li>
+    <li>
+      <h2>Costa Rica</h2>
+      <p>Costa Rican coffee beans are considered among the best in the world. Tarrazu is thought to produce the most desirable coffee beans in Costa Rica. In 2012, Tarrazu Geisha coffee became the most expensive coffee sold by Starbucks in 48 of their stores in the United States, using the Clover automated French press. The finest coffee is typically grown at altitudes of 1200 to 1700 meters.</p>
+      <a href="#">Learn More about Costa Rica</a>
+    </li>
+    <li>
+      <h2>Kenya</h2>
+      <p>The acidic soil in highlands of central Kenya, just the right amount of sunlight and rainfall provide excellent conditions for growing coffee plants. Coffee from Kenya is of the 'Colombia mild' type, and is well known for its intense flavor, full body, and pleasant aroma with notes of cocoa and high grade coffee from Kenya is one of the most sought-after coffees in the world.</p>
+      <a href="#">Learn More about Kenya</a>
+    </li>
+  </ul>
 
-.spectrum div {
-  font: inherit;
-  padding: 0 20px;
-  color: #FFFFFF;
-  overflow: auto;
-  opacity: 0.9;
-}
-
-.spectrum p {
-  color: #FFFFFF;
-  text-align: left;
-}
-
-/* Roast types */
-.green {
-  background-color: DarkSeaGreen;
-}
-
-.light {
-  background-color: Sienna;
-}
-
-.city {
-  background-color: SaddleBrown;
-}
-
-.vienna {
-  background-color: Brown;
-}
-
-.italian {
-  background-color: Black;
-}
-
-/* Typography */
-h1 {
-  color: MidnightBlue;
-  background-color: Aqua;
-  font-family: 'Covered By Your Grace', sans-serif;
-  font-size: 100px;
-  line-height: 76px;
-  margin: 0;
-  position: relative;
-  text-align: center;
-  top: 20%;
-}
-
-h2 {
-  color: #E4BB97;
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 500;
-  text-align: left;
-  text-transform: uppercase;
-}
-
-h3 {
-  color: #41292C;
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-  font-weight: 500;
-  text-align: center;
-}
-
-h4 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 28px;
-  font-weight: 700;
-  line-height: .2em;
-}
-
-h5 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  line-height: .2em;
-  font-weight: 300;
-}
-
-/* Page elements */
-ul {
-  margin: 0 auto;
-  padding: 0;
-  width: 75%;
-}
-
-li {
-  border-bottom: 1px solid #E4BB97;
-  list-style: none;
-  margin: 100px 0px;
-  padding-bottom: 60px;
-}
-
-p {
-  color: #444444;
-  line-height: 32px;
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  font-weight: 100;
-}
-
-a {
-  color: #214E34;
-  font-family: 'Raleway', sans-serif;
-  font-size: 13px;
-  font-weight: 900;
-  text-align: left;
-  text-transform: uppercase;
-  text-decoration: none;
-  letter-spacing: 2px;
+</body>
+</html>
