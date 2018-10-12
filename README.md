@@ -12,7 +12,7 @@ body {
 
 /** Header styles **/
 .header {
-  background-image: url https://photos.google.com/photo/AF1QipMRbLIn0vy7OnA3RGhEPnHNQBT_1KuTZy_g7wdR);
+  background-image: url(https://lh3.googleusercontent.com/7bR0UWT7qD0OTy77JprbKblaoYh4iM7Wd8nxr6wRM6l1QEG3VWcHK9oJvIahnzaP1xqd0virXnHpubuJk4QPv2ncNVPVOmRnMjR5Spq2NabUCp0SQ--nrSNGfh8Vyf-UbJFXV-KdmpcrpLZvlPQYB-AlnhSug93jvIFjfojThLUcX8_AdLD4SbNUkIGiQf_sKI6mOrH6hHlv0-2UDsEVLxbK3-NyQ7QY7VGP3qG4hzVjFKAg7Xdy1vfK-T07qwFz4G0DSBHa5uNHkL33gywMQXdTbJ0olFFjSI9AHhvw9qds1mrFEKGPD61VVmaCe8ryI1YxBDmcJGLwjLSqChVomU9PYVCk4Ci7nwpJK5Dt8cNnIhs832_qO1E7Y-oY75rBdvZeFzm4apNEUswfqPMXp9k58HS9wWTgrYDfTKkManqFj25Z00PgWtw13MCUECr9-a9gN2y5O2WN2DHgFEbPmx0RlMsB50vzxvLDzQayGmGIP0WZ_eafMkttx3w88Fwgfev2vnWNfuiB2BxwwJ9Skr82O0gzFsHauteY2w_gCTzupw4wcDAL-Kf8wZngpHFj2m-UKxq9rn-3gD3quw-6uVa48oo9tcSCG8vl7VIA7D4hyEgtrFejGNQ5PhEHI7A=w713-h535-no);
   height: 400px;
   background-position: center center;
 }
